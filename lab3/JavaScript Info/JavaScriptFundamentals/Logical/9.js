@@ -12,7 +12,7 @@ if (userName === 'Admin') {
         alert( 'Wrong password' );
     }
 
-} else if (userName === '' || userName ===s null) {
+} else if (userName === '' || userName === null) {
     alert( 'Canceled' );
 } else {
     alert( "I don't know you" );
